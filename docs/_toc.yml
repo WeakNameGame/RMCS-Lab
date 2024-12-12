@@ -5,6 +5,8 @@ parts:
   - caption: Examples
     numbered: True
     chapters:
+      - url: https://www.squirrelcompliancysolutions.com/
+        title: SQUIRREL!!
       - file: notebooks/world-bank-api.ipynb
       - file: notebooks/world-bank-package.ipynb
       - file: notebooks/nasa-apod.ipynb
