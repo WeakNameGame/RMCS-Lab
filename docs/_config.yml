@@ -2,7 +2,7 @@
 title: RCMS SDP Lab
 author: SCS 
 logo: docs/images/logo.png
-only_build_toc_files: false
+only_build_toc_files: true
 
 repository:
   url: https://github.com/worldbank/template
@@ -30,11 +30,6 @@ html:
 # Execution settings
 execute:
   execute_notebooks: off
-
-#######################################################################################
-# Bibliography settings
-bibtex_bibfiles:
-  - docs/bibliography.bib
 
 #######################################################################################
 # Sphinx settings
